@@ -17,8 +17,27 @@
 ## Наша интерактивная карта
 
 <iframe 
-  src="https://embed.github.com/view/geojson/eugenia06/ev_demo1/master/docs/karta.geojson?height=500&width=100%"
-  width="100%" 
-  height="500px" 
-  frameborder="0">
+  height='500' 
+  width='100%' 
+  frameborder='0' 
+  src='https://viewscreen.githubusercontent.com/view/geojson?url=https%3a%2f%2fraw.githubusercontent.com%2feugenia06%2fev_demo1%2fmaster%2fdocs%2fkarta.geojson' 
+  title='karta.geojson'>
+</iframe>
+
+## Наша интерактивная карта
+
+<iframe 
+  height='500' 
+  width='100%' 
+  frameborder='0' 
+  src='https://viewscreen.githubusercontent.com/view/geojson?url=https%3a%2f%2fraw.githubusercontent.com%2feugenia06%2fev_demo1%2fmaster%2fdocs%2fadmin_level_4_Austria_2.geojson' 
+  title='admin_level_4_Austria_2.geojson'>
+</iframe>
+
+<iframe 
+  height='500' 
+  width='100%' 
+  frameborder='0' 
+  src='https://viewscreen.githubusercontent.com/view/geojson?url=https%3a%2f%2fraw.githubusercontent.com%2feugenia06%2fev_demo1%2fmaster%2fdocs%2fadmin_level_4_Austria_1.geojson' 
+  title='admin_level_4_Austria_1.geojson'>
 </iframe>
