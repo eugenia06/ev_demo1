@@ -16,11 +16,9 @@
 
 ## Наша интерактивная карта
 
-<iframe
-  src="/map_qgis/index.html"
-  width="100%"
-  height="500px"
-  frameborder="0"
-  style="border:0; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);"
-  loading="lazy">
+<iframe 
+  src="https://embed.github.com/view/geojson/eugenia06/ev_demo1/master/docs/karta.geojson?height=500&width=100%"
+  width="100%" 
+  height="500px" 
+  frameborder="0">
 </iframe>
