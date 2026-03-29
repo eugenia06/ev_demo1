@@ -41,3 +41,4 @@
   src='https://viewscreen.githubusercontent.com/view/geojson?url=https%3a%2f%2fraw.githubusercontent.com%2feugenia06%2fev_demo1%2fmaster%2fdocs%2fadmin_level_4_Austria_1.geojson' 
   title='admin_level_4_Austria_1.geojson'>
 </iframe>
+<iframe src="map.html" width="100%" height="500"></iframe>
